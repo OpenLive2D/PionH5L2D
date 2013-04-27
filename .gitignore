@@ -1,0 +1,6 @@
+# ignore copyrighted assets
+assets/
+
+# ignore temp
+temp/
+tmp/
